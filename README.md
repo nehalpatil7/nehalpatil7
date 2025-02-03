@@ -34,7 +34,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🛠️ Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,ai,solidity,tensorflow,py,flask,js,nodejs,react,html,tailwind,redis,mysql,postgres,supabase,mongodb,aws,docker,c,cpp,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,ai,tensorflow,py,flask,js,nodejs,react,html,tailwind,redis,mysql,postgres,supabase,mongodb" />
+  <img src="https://skillicons.dev/icons?i=solidity,aws,docker,c,cpp,postman,figma" />
 </p>
 
 ## 📈 GitHub Stats
@@ -50,8 +51,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/nehalpatil7/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://nehalpatil7.github.io/"><img src="https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nehalpatil7/" target="_blank><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://nehalpatil7.github.io/" target="_blank><img src="https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
 </p>
 
 Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just want to connect. 😊
