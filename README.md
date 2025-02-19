@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
   - **Software Engineering Fellow @ Headstarter AI**
   - **Graduate Research Assistant @ Illinois Tech**
   - **MTS @ Mindstix Software Labs**
+  - **Software Engineering Intern @ Zensar**
 
 ## 🌱 What I'm Learning
 - Exploring advanced topics in Machine Learning and Artificial Intelligence.
