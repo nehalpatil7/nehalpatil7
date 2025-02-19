@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nehalpatil7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://nehalpatil7.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-8A2BE2" /></a>
+  <a href="https://nehalpatil7.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-8A2BE2?style=for-the-badge&labelColor=black" /></a>
 </p>
 
 Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just want to connect. 😊
