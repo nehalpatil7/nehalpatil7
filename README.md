@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
   - **Software Development Consultant @ Leap of Faith Technologies**
   - **Software Development Intern @ Leap of Faith Technologies**
   - **Software Engineering Fellow @ Headstarter AI**
-  - **Graduate Research Assistant @ Illinois Tech**
+  - **Graduate Research Assistant @ Illinois Tech (DataSys Lab)**
   - **MTS @ Mindstix Software Labs**
-  - **Software Engineering Intern @ Zensar**
+  - **Software Engineering Intern (ESD Trainee) @ Zensar**
 
 ## 🌱 What I'm Learning
 - Exploring advanced topics in Machine Learning and Artificial Intelligence.
