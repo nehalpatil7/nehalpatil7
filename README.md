@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 💡 Passionate about **Scalable Architechtures, AI, and Cloud Technologies**
 🌎 Currently based in **Chicago, USA**
 💼 **Past Roles:**
+  - **Software Development Consultant @ Leap of Faith Technologies**
   - **Software Development Intern @ Leap of Faith Technologies**
   - **Software Engineering Fellow @ Headstarter AI**
   - **Graduate Research Assistant @ Illinois Tech**
